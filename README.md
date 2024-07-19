@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Zubair and I'm a Full Stack Developer.</h3>
+<h3 align="left">Yo 👋!Zubair here and I Code.</h3>
 
 ###
 
