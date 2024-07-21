@@ -40,6 +40,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zbrrk/zbrrk/output/snake.svg" alt="Snake animation" />
 
-###
