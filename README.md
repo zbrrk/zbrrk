@@ -1,4 +1,4 @@
-<h1 align="center">Zubair</h1>
+<h1 align="center">ZUBAIR</h1>
 
 ###
 
